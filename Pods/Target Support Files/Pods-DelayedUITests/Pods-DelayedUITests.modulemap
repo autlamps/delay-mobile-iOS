@@ -1,0 +1,6 @@
+framework module Pods_DelayedUITests {
+  umbrella header "Pods-DelayedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.5.1)
+  - SVProgressHUD (2.2.1)
+  - SwiftyJSON (3.1.4)
+  - TextFieldEffects (1.3.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+  - SwiftyJSON
+  - TextFieldEffects
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: fe8e9d9a4bd8974fdd1b1d3eee85ee6d8141da83
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  SVProgressHUD: db27c54e6e18bc903341661fc9feb55e04905cc4
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TextFieldEffects: 8706f53525f1ce51c8921b7af32237caab50c467
+
+PODFILE CHECKSUM: 0cf5db314fc3998f0bc1c23b34a502cbe0b3751b
+
+COCOAPODS: 1.3.1
