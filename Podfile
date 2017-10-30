@@ -1,22 +1,23 @@
 # Uncomment the next line to define a global platform for your project
-# platform :ios, '9.0'
+ platform :ios, ’11.0’
 
-target 'Delayed' do
+target 'delayed' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Delayed
+  # Pods for delayed
   pod 'SwiftyJSON'
   pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
-  pod 'Alamofire', '~> 4.5'
   pod 'TextFieldEffects'
+  pod 'Firebase/Core'
+  pod ‘Firebase/Messaging’
 
-  target 'DelayedTests' do
+  target 'delayedTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'DelayedUITests' do
+  target 'delayedUITests' do
     inherit! :search_paths
     # Pods for testing
   end

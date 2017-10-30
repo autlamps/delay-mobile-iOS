@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E690C627A1F148CE20C26475C202A083"
-               BuildableName = "Pods_DelayedUITests.framework"
-               BlueprintName = "Pods-DelayedUITests"
+               BlueprintIdentifier = "E2CC1E7630C9FE975D0C324626A1F804"
+               BuildableName = "Pods_delayedUITests.framework"
+               BlueprintName = "Pods-delayedUITests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E690C627A1F148CE20C26475C202A083"
-            BuildableName = "Pods_DelayedUITests.framework"
-            BlueprintName = "Pods-DelayedUITests"
+            BlueprintIdentifier = "E2CC1E7630C9FE975D0C324626A1F804"
+            BuildableName = "Pods_delayedUITests.framework"
+            BlueprintName = "Pods-delayedUITests"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

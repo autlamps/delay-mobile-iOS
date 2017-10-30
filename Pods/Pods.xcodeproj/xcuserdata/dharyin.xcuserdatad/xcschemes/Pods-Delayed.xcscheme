@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C98BF3BD3018068C47D80BA4195D29A0"
-               BuildableName = "Pods_Delayed.framework"
-               BlueprintName = "Pods-Delayed"
+               BlueprintIdentifier = "EA6ACBD21C9CDCD50C931CE72B2F38FF"
+               BuildableName = "Pods_delayed.framework"
+               BlueprintName = "Pods-delayed"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C98BF3BD3018068C47D80BA4195D29A0"
-            BuildableName = "Pods_Delayed.framework"
-            BlueprintName = "Pods-Delayed"
+            BlueprintIdentifier = "EA6ACBD21C9CDCD50C931CE72B2F38FF"
+            BuildableName = "Pods_delayed.framework"
+            BlueprintName = "Pods-delayed"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

@@ -1,14 +1,14 @@
 //
-//  DelayedUITests.swift
-//  DelayedUITests
+//  delayedUITests.swift
+//  delayedUITests
 //
-//  Created by Dharyin Colbert on 4/10/17.
+//  Created by Dharyin Colbert on 24/10/17.
 //  Copyright © 2017 Lamps. All rights reserved.
 //
 
 import XCTest
 
-class DelayedUITests: XCTestCase {
+class delayedUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

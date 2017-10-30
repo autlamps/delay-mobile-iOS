@@ -1,15 +1,15 @@
 //
-//  DelayedTests.swift
-//  DelayedTests
+//  delayedTests.swift
+//  delayedTests
 //
-//  Created by Dharyin Colbert on 4/10/17.
+//  Created by Dharyin Colbert on 24/10/17.
 //  Copyright © 2017 Lamps. All rights reserved.
 //
 
 import XCTest
-@testable import Delayed
+@testable import delayed
 
-class DelayedTests: XCTestCase {
+class delayedTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

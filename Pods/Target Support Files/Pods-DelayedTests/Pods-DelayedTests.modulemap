@@ -1,5 +1,5 @@
-framework module Pods_DelayedTests {
-  umbrella header "Pods-DelayedTests-umbrella.h"
+framework module Pods_delayedTests {
+  umbrella header "Pods-delayedTests-umbrella.h"
 
   export *
   module * { export * }

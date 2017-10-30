@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_DelayedTests : NSObject
+@interface PodsDummy_Pods_delayedTests : NSObject
 @end
-@implementation PodsDummy_Pods_DelayedTests
+@implementation PodsDummy_Pods_delayedTests
 @end
